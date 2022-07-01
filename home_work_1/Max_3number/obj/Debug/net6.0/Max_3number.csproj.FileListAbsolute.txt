@@ -1,0 +1,15 @@
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\obj\Debug\net6.0\Max_3number.csproj.AssemblyReference.cache
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\obj\Debug\net6.0\Max_3number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\obj\Debug\net6.0\Max_3number.AssemblyInfoInputs.cache
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\obj\Debug\net6.0\Max_3number.AssemblyInfo.cs
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\obj\Debug\net6.0\Max_3number.csproj.CoreCompileInputs.cache
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\bin\Debug\net6.0\Max_3number.exe
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\bin\Debug\net6.0\Max_3number.deps.json
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\bin\Debug\net6.0\Max_3number.runtimeconfig.json
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\bin\Debug\net6.0\Max_3number.dll
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\bin\Debug\net6.0\Max_3number.pdb
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\obj\Debug\net6.0\Max_3number.dll
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\obj\Debug\net6.0\refint\Max_3number.dll
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\obj\Debug\net6.0\Max_3number.pdb
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\obj\Debug\net6.0\Max_3number.genruntimeconfig.cache
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_3number\obj\Debug\net6.0\ref\Max_3number.dll

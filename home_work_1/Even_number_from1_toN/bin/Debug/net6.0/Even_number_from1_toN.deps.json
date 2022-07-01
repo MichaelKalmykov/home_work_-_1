@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Even_number_from1_toN/1.0.0": {
+        "runtime": {
+          "Even_number_from1_toN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Even_number_from1_toN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

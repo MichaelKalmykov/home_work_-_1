@@ -1,0 +1,15 @@
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\bin\Debug\net6.0\Max_2number.exe
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\bin\Debug\net6.0\Max_2number.deps.json
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\bin\Debug\net6.0\Max_2number.runtimeconfig.json
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\bin\Debug\net6.0\Max_2number.dll
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\bin\Debug\net6.0\Max_2number.pdb
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\obj\Debug\net6.0\Max_2number.csproj.AssemblyReference.cache
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\obj\Debug\net6.0\Max_2number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\obj\Debug\net6.0\Max_2number.AssemblyInfoInputs.cache
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\obj\Debug\net6.0\Max_2number.AssemblyInfo.cs
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\obj\Debug\net6.0\Max_2number.csproj.CoreCompileInputs.cache
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\obj\Debug\net6.0\Max_2number.dll
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\obj\Debug\net6.0\refint\Max_2number.dll
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\obj\Debug\net6.0\Max_2number.pdb
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\obj\Debug\net6.0\Max_2number.genruntimeconfig.cache
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Max_2number\obj\Debug\net6.0\ref\Max_2number.dll

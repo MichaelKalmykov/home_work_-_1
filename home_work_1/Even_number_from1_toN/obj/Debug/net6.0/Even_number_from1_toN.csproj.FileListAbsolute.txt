@@ -1,0 +1,15 @@
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\bin\Debug\net6.0\Even_number_from1_toN.exe
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\bin\Debug\net6.0\Even_number_from1_toN.deps.json
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\bin\Debug\net6.0\Even_number_from1_toN.runtimeconfig.json
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\bin\Debug\net6.0\Even_number_from1_toN.dll
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\bin\Debug\net6.0\Even_number_from1_toN.pdb
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\obj\Debug\net6.0\Even_number_from1_toN.csproj.AssemblyReference.cache
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\obj\Debug\net6.0\Even_number_from1_toN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\obj\Debug\net6.0\Even_number_from1_toN.AssemblyInfoInputs.cache
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\obj\Debug\net6.0\Even_number_from1_toN.AssemblyInfo.cs
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\obj\Debug\net6.0\Even_number_from1_toN.csproj.CoreCompileInputs.cache
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\obj\Debug\net6.0\Even_number_from1_toN.dll
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\obj\Debug\net6.0\refint\Even_number_from1_toN.dll
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\obj\Debug\net6.0\Even_number_from1_toN.pdb
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\obj\Debug\net6.0\Even_number_from1_toN.genruntimeconfig.cache
+C:\Users\Михнас\Desktop\Домашняя рабоота 1\Even_number_from1_toN\obj\Debug\net6.0\ref\Even_number_from1_toN.dll
